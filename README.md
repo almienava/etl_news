@@ -35,6 +35,9 @@ Setting the airflow.cfg file in $AIRFLOW_HOME,adjust the path to yours
 ```
 And lastly run apache airflow according to the [Documentation](https://airflow.apache.org/docs/) instructions from Apache Airflow
 
+## Notes
+
+Please adjust the output csv file location path in each py file.
 
 ## Feedback
 
